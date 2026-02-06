@@ -8,7 +8,7 @@ export default function Info() {
                 <h1>Laura Johnson</h1>
                 <p>Software Engineer Intern</p>
             </div>
-            <button>Email</button>
+            <button><i class="fa-solid fa-envelope"></i> Email</button>
         </div>
     )
 }
